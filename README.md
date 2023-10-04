@@ -2,7 +2,7 @@
 
 > Estudante em formação de Desenvolvimento de Software FullStack
 
-😏 Amando aprender e me desafiar na Cubos Academy
+s2 Amando aprender e me desafiar na Cubos Academy
 
 
 ---
